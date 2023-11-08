@@ -1,12 +1,4 @@
-<h1 align="center"> A to Z Resources for Students </h1>
-
-
-If you think this repository helped you in any in finding new opportunities, tag me on Twitter at [@HQdeepak](https://twitter.com/HQdeepak) and help it reach more people in the community. 
-
-
-[Buy Me a Coffee](https://www.buymeacoffee.com/dipakkr)
-
----
+ 
 
 Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
