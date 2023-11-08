@@ -2,7 +2,7 @@
 
 Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
-When I was in college, I missed a lot of opportunities like hackathons, conferences, internships, workshops and many global events due to lack of awareness. I don't want the emerging developers to suffer the same as me. Hence, I and a bunch of other developers around have collected a list of resources for students. If you are in college, a college graduate, or just starting out as a developer, you should definitely check it out!
+During my college years, I regretted missing out on valuable experiences such as hackathons, conferences, internships, and workshops because of my lack of awareness. I felt like I had overlooked countless opportunities for learning and growth. Determined not to let others face the same fate, I decided to compile a comprehensive repository of resources. This collection includes a wide array of events and programs that aspiring developers might not be aware of, ensuring they don't miss out on any chance to enhance their skills and expand their horizons. Whether you're a college student, recent graduate, or just starting your journey in the world of development, this repository is designed to empower you with the knowledge and opportunities you need to thrive in your career. Don't let ignorance hold you back—explore the repository and unlock a world of possibilities!
 
 ![Image](res/a2z.png)
 
